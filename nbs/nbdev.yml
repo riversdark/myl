@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "myl"
+  site-url: "https://riversdark.github.io/myl"
+  description: "Mind Your Language (models)"
+  repo-branch: main
+  repo-url: "https://github.com/riversdark/myl"
