@@ -4,3 +4,4 @@ website:
       - index.ipynb
       - 00_core.ipynb
       - 00_lightning.ipynb
+      - 01_nanoGPT.ipynb
